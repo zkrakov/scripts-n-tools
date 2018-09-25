@@ -6,10 +6,10 @@
 #----------------------------------------------------------------------------------------
 
 servicelist=(
-	'rakejob'
-	'nginx'
-	'unicorn'
-	# 'puma'
+'rakejob'
+'nginx'
+'unicorn'
+# 'puma'
 )
 
 SESSION_LOG="/tmp/servicecheck.log"
